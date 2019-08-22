@@ -1310,7 +1310,8 @@ h6 {
 
 #footer .copyright {
   text-align: center;
-  padding-top: 15px;
+  padding-top: 30px;
+  font-size: 10px;
 }
 
 #footer .credits {
